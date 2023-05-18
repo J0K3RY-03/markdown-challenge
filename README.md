@@ -8,15 +8,15 @@
 | Favorite Color | Red        |
 | Favorite Food  | Fries      |
 | Birthday       | 23/03/1997 |
+| Pinneapple on pizza | [ ] |
 
-Pinneapple on pizza [ ]
 
 ### Hobbies
 * Code
 * Video Games
-   ..* Escape From Tarkov
-   ..* Diablo IV
-   ..* Rust
+    * Escape From Tarkov
+    * Diablo IV
+    * Rust
 * My Family
 
 #### You can always count on me when... 

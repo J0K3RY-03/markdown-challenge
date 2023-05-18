@@ -2,18 +2,22 @@
 *Le savoir est infini*
 
 ## Jeune Dev qui essai d'apprendre le plus possible
-| Birthday:  |   23/03/1997   |
-| Favorite Color |   Red   |
-| Favorite Food |   Fries   |
-| Pinneapple on pizza |   [ ]   |
+
+| Question       | Response   |
+|----------------|------------|
+| Favorite Color | Red        |
+| Favorite Food  | Fries      |
+| Birthday       | 23/03/1997 |
+
+Pinneapple on pizza [ ]
 
 ### Hobbies
-*Code
-*Video Games
-   ..*Escape From Tarkov
-   ..*Diablo IV
-   ..*Rust
-*My Family
+* Code
+* Video Games
+   ..* Escape From Tarkov
+   ..* Diablo IV
+   ..* Rust
+* My Family
 
 #### You can always count on me when... 
 

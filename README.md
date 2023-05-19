@@ -1,7 +1,7 @@
 # J0K3RY
 *Le savoir est infini*
 
-## Jeune Dev qui essai d'apprendre le plus possible
+## Young Junior Dev trying to learn as much as possible
 
 | Question       | Response   |
 |----------------|------------|

@@ -8,7 +8,7 @@
 | Favorite Color | Red        |
 | Favorite Food  | Fries      |
 | Birthday       | 23/03/1997 |
-| Pinneapple on pizza | <input type="checkbox">
+| Pinneapple on pizza | <input type="checkbox"> |
 
 
 ### Hobbies

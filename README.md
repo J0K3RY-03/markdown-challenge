@@ -33,4 +33,4 @@ The third takes the hood. She swallows the contents saying:
 
 ###### Other student
 
-<< [Previou](https://github.com/FLE0) || [My](https://github.com/J0K3RY-03) || [Next](www.google.com) >>
+<< [Previou](https://github.com/FLE0) || [My](https://github.com/J0K3RY-03) || [Next](https://github.com/steeve0403) >>
